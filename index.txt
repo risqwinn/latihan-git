@@ -1,4 +1,5 @@
 Hello world this is version new master
+Hello world dari fitur-d
 Ini fitur A 
 Halo ada fitur baru dari fitur-a 
 Halo ini fitur-b
