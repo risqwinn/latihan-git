@@ -8,3 +8,4 @@ Baris baru khusus fitur-c
 pesan baru dari fitur-a
 pesan baru dari fitur-b
 pesan baru dari master
+pesan dari fitur-b: testing pakai merge
