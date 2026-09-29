@@ -6,3 +6,4 @@ Halo ini fitur-b
 Update langsung di master
 Baris baru khusus fitur-c
 pesan baru dari fitur-a
+pesan baru dari fitur-b
